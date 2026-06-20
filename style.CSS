@@ -1,0 +1,209 @@
+/* Selectores de etiqueta */
+body {
+	font-family:Calibri;
+	text-align:left;
+	background-color:white;
+}
+.logo{
+	display:flex;
+	margin: 20px auto;
+	padding: 10px;
+	border: 5px solid orange;
+	width: 250px;
+	border-radius: 25px;
+	box-shadow: 0 0 20px rgba(0, 0, 0, 1);
+}
+
+.parrafo{
+	background-color:C9DC92;
+	padding: 20px;
+	border: 3px solid white;
+	margin:20px;
+}
+
+.imagen1{
+	display: left;
+	margin: 20px auto;
+	padding: 10px;
+	border: 5px solid orange;
+	width: 250px;
+	border-radius: 25px;
+	box-shadow: 0 0 20px rgba(0, 0, 0, 1);
+}
+
+.imagen2{
+	display: left;
+	margin: 20px auto;
+	padding: 10px;
+	border: 5px solid orange;
+	width: 250px;
+	border-radius: 25px;
+	box-shadow: 0 0 20px rgba(0, 0, 0, 1);
+}
+.imagen3{
+	display: left;
+	margin: 20px auto;
+	padding: 10px;
+	border: 5px solid orange;
+	width: 250px;
+	border-radius: 25px;
+	box-shadow: 0 0 20px rgba(0, 0, 0, 1);
+}
+.imagen4{
+	display: left;
+	margin: 20px auto;
+	padding: 10px;
+	border: 5px solid orange;
+	width: 250px;
+	border-radius: 25px;
+	box-shadow: 0 0 20px rgba(0, 0, 0, 1);
+}
+.imagen5{
+	display: left;
+	margin: 20px auto;
+	padding: 10px;
+	border: 5px solid orange;
+	width: 250px;
+	border-radius: 25px;
+	box-shadow: 0 0 20px rgba(0, 0, 0, 1);
+}
+.imagen6{
+	display: left;
+	margin: 20px auto;
+	padding: 10px;
+	border: 5px solid orange;
+	width: 250px;
+	border-radius: 25px;
+	box-shadow: 0 0 20px rgba(0, 0, 0, 1);
+}
+.imagen7{
+	display: left;
+	margin: 20px auto;
+	padding: 10px;
+	border: 5px solid orange;
+	width: 250px;
+	border-radius: 25px;
+	box-shadow: 0 0 20px rgba(0, 0, 0, 1);
+}
+.imagen8{
+	display: left;
+	margin: 20px auto;
+	padding: 10px;
+	border: 5px solid orange;
+	width: 250px;
+	border-radius: 25px;
+	box-shadow: 0 0 20px rgba(0, 0, 0, 1);
+}
+.imagen9{
+	display: left;
+	margin: 20px auto;
+	padding: 10px;
+	border: 5px solid orange;
+	width: 250px;
+	border-radius: 25px;
+	box-shadow: 0 0 20px rgba(0, 0, 0, 1);
+}
+.imagen10{
+	display: left;
+	margin: 20px auto;
+	padding: 10px;
+	border: 5px solid orange;
+	width: 250px;
+	border-radius: 25px;
+	box-shadow: 0 0 20px rgba(0, 0, 0, 1);
+}
+.imagen11{
+	display: left;
+	margin: 20px auto;
+	padding: 10px;
+	border: 5px solid orange;
+	width: 250px;
+	border-radius: 25px;
+	box-shadow: 0 0 20px rgba(0, 0, 0, 1);
+}
+.imagen12{
+	display: left;
+	margin: 20px auto;
+	padding: 10px;
+	border: 5px solid orange;
+	width: 250px;
+	border-radius: 25px;
+	box-shadow: 0 0 20px rgba(0, 0, 0, 1);
+}
+.imagen13{
+	display: left;
+	margin: 20px auto;
+	padding: 10px;
+	border: 5px solid orange;
+	width: 250px;
+	border-radius: 25px;
+	box-shadow: 0 0 20px rgba(0, 0, 0, 1);
+}
+.imagen14{
+	display: left;
+	margin: 20px auto;
+	padding: 10px;
+	border: 5px solid orange;
+	width: 250px;
+	border-radius: 25px;
+	box-shadow: 0 0 20px rgba(0, 0, 0, 1);
+}
+.imagen15{
+	display: left;
+	margin: 20px auto;
+	padding: 10px;
+	border: 5px solid orange;
+	width: 250px;
+	border-radius: 25px;
+	box-shadow: 0 0 20px rgba(0, 0, 0, 1);
+}
+.imagen16{
+	display: left;
+	margin: 20px auto;
+	padding: 10px;
+	border: 5px solid orange;
+	width: 250px;
+	border-radius: 25px;
+	box-shadow: 0 0 20px rgba(0, 0, 0, 1);
+}
+.lista {
+	background-color:orange;
+	padding:15px;
+	border: 2px solid gray;
+	margin: 20px;
+}
+
+.lista li {
+	margin:10px;
+	padding:5px;
+	border-bottom:1px solid black;
+}
+.menu {
+	background-color:orange;
+	padding: 20px;
+	text-align:center;
+}
+.menu a {
+	color:C9DC92;
+	text-decoration:none;
+	margin:10px;
+	padding:15px;
+	border:4px solid black;
+}
+.menu a:hover{
+	background-color:yellow;
+	color:C9DC92;
+}
+section {
+    background-color:yellow;
+    margin: 10px 0;
+    padding: 15px;
+    border-radius: 5px;
+}
+	button {
+    padding: 10px;
+    background-color:pink;
+    color:C9DC92;
+    border: none;
+    cursor: pointer;
+}
